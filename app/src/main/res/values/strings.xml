@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Compat</string>
+    <string name="hello_text_string">Tahu Bulet!</string>
+    <string name="hello_textview">Tahu Bulet!</string>
+    <string name="button_label">Ganti Warna</string>
+
+</resources>
